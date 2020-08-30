@@ -1,0 +1,118 @@
+body{
+    width: 100%;
+}
+.clearfix{
+    content:'';
+    display:block;
+    clear:both;
+}
+.wrapper{
+    width: 400px;
+    margin:0 auto;
+}
+.header{
+    height: 100px;
+    background-color: #141f40;
+}
+.header-innerbox-white{
+    position:relative;
+    top:20px;
+    left:220px;
+    width: 160px;
+    height: 60px;
+    background-color: #fff;
+}
+.header-innerbox1{
+    float: left;
+    position:relative;
+    top:10px;
+    left:10px;
+    width: 40px;
+    height:40px;
+    background-color: #a9004b;
+}
+.header-innerbox2{
+    float: left;
+    position:relative;
+    top:10px;
+    left:20px;
+    width: 40px;
+    height:40px;
+    background-color: #a9004b;
+}
+.header-innerbox3{
+    float: left;
+    position:relative;
+    top:10px;
+    left:30px;
+    width: 40px;
+    height:40px;
+    background-color: #a9004b;
+}
+.content{
+    height: 250px;
+}
+.left{
+    float:left;
+    height: 250px;
+    width: 150px;
+    background-color: #80bfa8;
+}
+.right-content{
+    float: right;
+    width: 250px;
+    height: 250px;
+    background-color: #8c2727;
+}
+.right-innerbox-white1{
+    position:relative;
+    top:40px;
+    left:40px;
+    width: 150px;
+    height:50px;
+    background-color: #fff;
+}
+.right-innerbox1{
+    position:relative;
+    top:5px;
+    left:5px;
+    height:40px;
+    width:140px;
+    background-color: #ff863f;
+}
+.right-innerbox-white2{
+    position:relative;
+    top:50px;
+    left:40px;
+    width: 150px;
+    height:50px;
+    background-color: #fff;
+}
+.right-innerbox2{
+    position:relative;
+    top:5px;
+    left:5px;
+    height:40px;
+    width:140px;
+    background-color: #ff863f;
+}
+.right-innerbox-white3{
+    position:relative;
+    top:60px;
+    left:40px;
+    width: 150px;
+    height:50px;
+    background-color: #fff;
+}
+.right-innerbox3{
+    position:relative;
+    top:5px;
+    left:5px;
+    height:40px;
+    width:140px;
+    background-color: #ff863f;
+}
+.footer{
+    height: 100px;
+    background-color: #d98d30;
+}
